@@ -6,6 +6,17 @@
 ## **Introduccion:**
 
 En este repositorio encontramos todas las clases, tanto teoricas como practicas de la materia Laboratorio de datos dada el primer cuatrimestre del 2024. En la carpeta Notebooks podemos encontrar los notebooks con anotaciones que fui haciendo en clase y en la carpeta Practicas los resueltos de la guias de ejercicios junto con sus respectivos PDFs. 
+### **Organizacion de carpetas**
+| Clase  | Notebook-Practica | Ejercicios | Resuelto |  
+| -----  | ----------------- | ---------- | -------- |
+| [_Clase 1: Programa e informacion general_](./Clases/clase1-slides.pdf) | [Notebook 1: Numpy, pandas](./Notebooks/clase1-laboDatos-numpy.ipynb) | [Guia practica 1](./Practicas/PDFs/practica1-ldd-1c2024.pdf) | None |  
+| [_Clase 2: Estadistica Descriptiva_](./Clases/clase02-estadisticaDescriptiva-slides.pdf) | [Notebook 2: Pandas](./Notebooks/clase2-ldd-estadisticaDescriptiva.ipynb) | [Guia Practica 2](./Practicas/PDFs/practica2-ldd-1c2024.pdf) | None |
+| [_Clase 3: Git_](./Clases/clase03-git.pdf) | None | Simulacion de Clonacion y fork con compañeros en clase | None |
+| [_Clase 4 y 5: Visualizacion_](./Clases/clase04-visualizacion-slides.pdf) | [Clase 4 y 5](./Notebooks/clase4-ldd-visualizacion.ipynb) | [Guia Practica 3](./Practicas/PDFs/practica3-ldd-1c2024.pdf) | [Resuelto Guia 3](./Practicas/practica3.ipynb) |
+| [_Clase 6: Regresión Lineal_](./Clases/clase06-regresionLineal-slides.pdf) | [Notebook 6](./Notebooks/clase6-ldd-regresionlineal.ipynb) | [Guia practica 4](./Practicas/practica4.ipynb) | [Resuelto Guia 4](./Practicas/practica4.ipynb) | 
+| [_Clase 7: Cuadrados Minimos_](./Clases/clase07-cuadradosMinimos-slides.pdf) | [Notebook 7](./Notebooks/clase7-ldd-cuadradosminimos.ipynb) | Igual que arriba | Igual que arriba | 
+
+
 
 ***Disclaimer***: Los hice yo asique cualquier sugerencia para mejorar es bienvenida!
 
