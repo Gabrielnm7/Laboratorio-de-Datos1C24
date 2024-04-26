@@ -18,7 +18,7 @@ En este repositorio encontramos todas las clases, tanto teoricas como practicas 
 
 
 
-***Disclaimer***: Los hice yo asique cualquier sugerencia para mejorar es bienvenida!
+***Disclaimer***: Los resueltos son hechos por mi asique cualquier sugerencia/correción para mejorar es bienvenida!
 
 ## Consejos:
 
@@ -28,8 +28,8 @@ Si estas en ***Visual Studio Code***, lo mejor seria correr un **virtual envirom
  
  ## Nota errores en Windows:
 
-Si llega a aparecer un error del tipo:
-> No se puede cargar el archivo C:\Users\Usuario\Desktop\testing\venv\Scripts\activate.ps1 porque la ejecución de scripts está deshabilitada en este sistema...
+Si llega a aparecer un error similar al siguiente:
+> No se puede cargar el archivo C:\Users\Usuario\venv\Scripts\activate.ps1 porque la ejecución de scripts está deshabilitada en este sistema...
 
 Entonces hay que abrir PowerShell como administrador y ejecutar el siguiente comando:
 ```bash
@@ -39,10 +39,11 @@ Una vez que hicimos todo lo anterior podemos volver a como estaba antes ejecuant
 ```bash
 Set-ExecutionPolicy -ExecutionPolicy Restricted -Scope CurrentUser
 ```
-Me paso tambien que si no se puede cargar el dataset de gapminder por que hay un error de tipo:
+Me pasó también que no se puede cargar el dataset de gapminder por que sale este error:
 > ModuleNotFoundError: No module named 'pkg_resources'
 
-Para solucionar esto simplemente ejecute dentro del entorno virtual el siguiente comando
+Para solucionarlo simplemente ejecuté dentro del entorno virtual el siguiente comando
 ```bash
     pip install --upgrade setuptools
 ```
+Con esto ya puedo utilizar el dataset. 
