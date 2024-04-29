@@ -14,9 +14,9 @@ En este repositorio encontramos todas las clases, tanto teoricas como practicas 
 | [_Clase 3: Git_](./Clases/clase03-git.pdf) | None | Simulacion de Clonacion y fork con compañeros en clase | None |
 | [_Clase 4 y 5: Visualizacion_](./Clases/clase04-visualizacion-slides.pdf) | [Clase 4 y 5](./Notebooks/clase4-ldd-visualizacion.ipynb) | [Guia Practica 3](./Practicas/PDFs/practica3-ldd-1c2024.pdf) | [Resuelto Guia 3](./Practicas/practica3.ipynb) |
 | [_Clase 6: Regresión Lineal_](./Clases/clase06-regresionLineal-slides.pdf) | [Notebook 6](./Notebooks/clase6-ldd-regresionlineal.ipynb) | [Guia practica 4](./Practicas/practica4.ipynb) | [Resuelto Guia 4](./Practicas/practica4.ipynb) | 
-| [_Clase 7: Cuadrados Minimos_](./Clases/clase07-cuadradosMinimos-slides.pdf) | [Notebook 7](./Notebooks/clase7-ldd-cuadradosminimos.ipynb) | Igual que arriba | Igual que arriba | 
-
-
+| [_Clase 7: Cuadrados Minimos_](./Clases/clase07-cuadradosMinimos-slides.pdf) | [Notebook 7](./Notebooks/clase7-ldd-cuadradosminimos.ipynb) | Igual que arriba | Igual que arriba |
+| [_Clase 8: Modelo Lineal Multivariado_](./Clases/clase08%20-%20Modelo%20Lineal%20Multivariado.pdf) | None | [Guia Practica 5](./Practicas/PDFs/practica5-ldd-1c2024.pdf) | [Resuelto Guia 5](./Practicas/practica5.ipynb) |
+| [_Clase 9: Entrenamiento_](./Clases/clase09-entrenamiento-slides.pdf) | [Notebook clase 9](./Notebooks/Clase9-Multivariado-Clase.ipynb) | Igual que arriba | Igual que arriba |
 
 ***Disclaimer***: Los resueltos son hechos por mi asique cualquier sugerencia/correción para mejorar es bienvenida!
 
