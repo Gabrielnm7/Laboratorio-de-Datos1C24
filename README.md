@@ -18,6 +18,7 @@ En este repositorio encontramos todas las clases, tanto teoricas como practicas 
 | [_Clase 8: Modelo Lineal Multivariado_](./Clases/clase08%20-%20Modelo%20Lineal%20Multivariado.pdf) | None | [Guia Practica 5](./Practicas/PDFs/practica5-ldd-1c2024.pdf) | [Resuelto Guia 5](./Practicas/practica5.ipynb) |
 | [_Clase 9: Entrenamiento_](./Clases/clase09-entrenamiento-slides.pdf) | [Notebook clase 9](./Notebooks/Clase9-Multivariado-Clase.ipynb) | Igual que arriba | Igual que arriba |
 
+
 ***Disclaimer***: Los resueltos son hechos por mi asique cualquier sugerencia/correción para mejorar es bienvenida!
 
 ## Consejos:
