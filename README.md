@@ -17,6 +17,8 @@ En este repositorio encontramos todas las clases, tanto teoricas como practicas 
 | [_Clase 7: Cuadrados Minimos_](./Clases/clase07-cuadradosMinimos-slides.pdf) | [Notebook 7](./Notebooks/clase7-ldd-cuadradosminimos.ipynb) | Igual que arriba | Igual que arriba |
 | [_Clase 8: Modelo Lineal Multivariado_](./Clases/clase08%20-%20Modelo%20Lineal%20Multivariado.pdf) | None | [Guia Practica 5](./Practicas/PDFs/practica5-ldd-1c2024.pdf) | [Resuelto Guia 5](./Practicas/practica5.ipynb) |
 | [_Clase 9: Entrenamiento_](./Clases/clase09-entrenamiento-slides.pdf) | [Notebook clase 9](./Notebooks/Clase9-Multivariado-Clase.ipynb) | Igual que arriba | Igual que arriba |
+| [_Clase 10: Validacion Cruzada_](./Clases/clase10-validacion-slides.pdf) | [Notebook Clase 10](./Notebooks/clase10-ldd-validacionCruzada.ipynb) | = | = |
+| [_Clase 11: Ridge Regression_](./Clases/clase11-ridge-slides.pdf) | [Notebook Clase 11](./Notebooks/Clase11-ridgeRegression.ipynb) | = | = |
 
 
 ***Disclaimer***: Los resueltos son hechos por mi asique cualquier sugerencia/correción para mejorar es bienvenida!
