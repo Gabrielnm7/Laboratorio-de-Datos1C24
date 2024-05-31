@@ -7,6 +7,9 @@
 
 En este repositorio encontramos todas las clases, tanto teoricas como practicas de la materia Laboratorio de datos dada el primer cuatrimestre del 2024. En la carpeta Notebooks podemos encontrar los notebooks con anotaciones que fui haciendo en clase y en la carpeta Practicas los resueltos de la guias de ejercicios junto con sus respectivos PDFs. 
 ### **Organizacion de carpetas**
+<details>
+<summary> Hay tabla! </summary>
+
 | Clase  | Notebook-Practica | Ejercicios | Resuelto |  
 | -----  | ----------------- | ---------- | -------- |
 | [_Clase 1: Programa e informacion general_](./Clases/clase1-slides.pdf) | [Notebook 1: Numpy, pandas](./Notebooks/clase1-laboDatos-numpy.ipynb) | [Guia practica 1](./Practicas/PDFs/practica1-ldd-1c2024.pdf) | None |  
@@ -22,14 +25,20 @@ En este repositorio encontramos todas las clases, tanto teoricas como practicas 
 | _Clase 12: Modelado y Selección de Hiperparámetros_ | [Notebook 12](./Notebooks/Clase%2012-Modelado%20y%20Selección%20de%20Hiperparámetros.ipynb) | [Practica 6: Operaciones con DataFrames y transformaciones de datos](./Practicas/PDFs/practica6-ldd-1c2024.pdf) | El resuelto se deja como ejercicio al lector. | 
 | _Clase 13: Operaciones en DataFrames_ | [Notebook 13](./Notebooks/clase13-ldd-operaciones.ipynb) | Ademas de la guia 6, hubo un [desafio sorpresa](./Notebooks/clase13-ldd-desafioSorpresa.ipynb) | El resueldo del desafio esta en el mismo notebook | 
 | _Clase 14: Preprocesamiento_ | [Notebook 14](./Notebooks/clase14-ldd-preprocesamiento.ipynb) | None | None |
-| [Clase 15: Clustering](./Clases/clase15-clustering-slides.pdf) | [Notebook 15](./Notebooks/clase15-ldd-clusteringkmeans-clase.ipynb) | [Practica 7](./Practicas/PDFs/practica7-ldd-1c2024-clustering.pdf) | In progress| |
+| [_Clase 15: Clustering_](./Clases/clase15-clustering-slides.pdf) | [Notebook 15](./Notebooks/clase15-ldd-clusteringkmeans-clase.ipynb) | [Practica 7](./Practicas/PDFs/practica7-ldd-1c2024-clustering.pdf) | [Resuelto Guia 7](./Practicas/practica7.ipynb) |
+| [_Clase 16: DBSCAN_](./Clases/clase16-dbscan-slides.pdf) | [Notebook 16](./Notebooks/clase16-ldd-dbscan-clase.ipynb) | Practica 7 Ejercicio 5 | = |
+| [_Clsae 17: KNN_](./Clases/clase17-clasificacion-slides.pdf) | [Notebook 17](./Notebooks/Clase17-KNN-clase.ipynb) | = | = |
+| [_Clase 18: PCA](./Clases/clase18-PCA-slides.pdf) | [Notebook 18](./Notebooks/clase18-pca-pasoapaso-clase.ipynb) | [Practica 8](./Practicas/PDFs/practica8-ldd-1c2024-componentes_principales.pdf) | [Resuelto Guia 8](./Practicas/practica8.ipynb) | 
+|
 
-
+</details>
 
 ***Disclaimer***: Los resueltos son hechos por mi asique cualquier sugerencia/correción para mejorar es bienvenida!
 ## Consejos:
 
-Si estas en ***Visual Studio Code***, lo mejor seria correr un **virtual enviroment** para asi no descargar todos los modulos que se usan aca en tu maquina. Si no sabes tengo un repo de como crear tu maquina virtual al cual podes acceder [aca](https://github.com/Gabrielnm7/How-to-create-a-virtual-enviroment). Luego seleccionas el kernel en visual studio, abriendo cualquier jupyter notebook podes hacer click aca:
+Si estas en ***Visual Studio Code***, lo mejor seria correr un **virtual enviroment** para asi no descargar todos los modulos que se usan aca. Si no sabes como crear uno tengo un repo de como crear tu maquina virtual al cual podes acceder [aca](https://github.com/Gabrielnm7/How-to-create-a-virtual-enviroment). 
+
+Luego seleccionas el kernel en visual studio, abriendo cualquier jupyter notebook podes hacer click aca:
 
 <image src="./_src/images/select_kernel.png">
  
