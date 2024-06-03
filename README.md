@@ -44,7 +44,7 @@ Luego seleccionas el kernel en visual studio, abriendo cualquier jupyter noteboo
  
  ## Nota errores en Windows:
 
-Si llega a aparecer un error similar al siguiente:
+### 1. Si llega a aparecer un error similar al siguiente:
 > No se puede cargar el archivo C:\Users\Usuario\venv\Scripts\activate.ps1 porque la ejecución de scripts está deshabilitada en este sistema...
 
 Entonces hay que abrir PowerShell como administrador y ejecutar el siguiente comando:
@@ -55,7 +55,7 @@ Una vez que hicimos todo lo anterior podemos volver a como estaba antes ejecuant
 ```bash
 Set-ExecutionPolicy -ExecutionPolicy Restricted -Scope CurrentUser
 ```
-Me pasó también que no se puede cargar el dataset de gapminder por que sale este error:
+### 2. Me pasó también que no se puede cargar el dataset de gapminder por que sale este error:
 > ModuleNotFoundError: No module named 'pkg_resources'
 
 Para solucionarlo simplemente ejecuté dentro del entorno virtual el siguiente comando
