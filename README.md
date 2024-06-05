@@ -29,7 +29,8 @@ En este repositorio encontramos todas las clases, tanto teoricas como practicas 
 | [_Clase 16: DBSCAN_](./Clases/clase16-dbscan-slides.pdf) | [Notebook 16](./Notebooks/clase16-ldd-dbscan-clase.ipynb) | Practica 7 Ejercicio 5 | = |
 | [_Clsae 17: KNN_](./Clases/clase17-clasificacion-slides.pdf) | [Notebook 17](./Notebooks/Clase17-KNN-clase.ipynb) | = | = |
 | [_Clase 18: PCA](./Clases/clase18-PCA-slides.pdf) | [Notebook 18](./Notebooks/clase18-pca-pasoapaso-clase.ipynb) | [Practica 8](./Practicas/PDFs/practica8-ldd-1c2024-componentes_principales.pdf) | [Resuelto Guia 8](./Practicas/practica8.ipynb) | 
-|
+| _Clase 19: Aplicaciones de PCA_ | [Notebook 19](./Notebooks/clase19-pca-irl.ipynb) | = | = | 
+| [_Clase 20: Descenso del Gradiente_](./Clases/clase20-gradiente-slides.pdf) | [Notebook 20](./Notebooks/clase20-descensoporgradiente.ipynb) usada con [tf_regressor.py](./Notebooks/tf_regressor.py) | = | = |
 
 </details>
 

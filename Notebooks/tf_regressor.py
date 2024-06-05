@@ -1,6 +1,6 @@
 """
 Desarrollado para la materia Laboratorio de Datos dictada por el Instituto de Calculo de la Facultad de Ciencias
-Exactas y Naturales de la Universida de Buenos Aires durante el Primer Cuatrimestre de 2024.
+Exactas y Naturales de la Universidad de Buenos Aires durante el Primer Cuatrimestre de 2024.
 """
 
 import logging
