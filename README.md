@@ -23,14 +23,15 @@ En este repositorio encontramos todas las clases, tanto teoricas como practicas 
 | [_Clase 10: Validacion Cruzada_](./Clases/clase10-validacion-slides.pdf) | [Notebook 10](./Notebooks/clase10-ldd-validacionCruzada.ipynb) | = | = |
 | [_Clase 11: Ridge Regression_](./Clases/clase11-ridge-slides.pdf) | [Notebook 11](./Notebooks/Clase11-ridgeRegression.ipynb) | = | = |
 | _Clase 12: Modelado y Selección de Hiperparámetros_ | [Notebook 12](./Notebooks/Clase%2012-Modelado%20y%20Selección%20de%20Hiperparámetros.ipynb) | [Practica 6: Operaciones con DataFrames y transformaciones de datos](./Practicas/PDFs/practica6-ldd-1c2024.pdf) | El resuelto se deja como ejercicio al lector. | 
-| _Clase 13: Operaciones en DataFrames_ | [Notebook 13](./Notebooks/clase13-ldd-operaciones.ipynb) | Ademas de la guia 6, hubo un [desafio sorpresa](./Notebooks/clase13-ldd-desafioSorpresa.ipynb) | El resueldo del desafio esta en el mismo notebook | 
-| _Clase 14: Preprocesamiento_ | [Notebook 14](./Notebooks/clase14-ldd-preprocesamiento.ipynb) | None | None |
-| [_Clase 15: Clustering_](./Clases/clase15-clustering-slides.pdf) | [Notebook 15](./Notebooks/clase15-ldd-clusteringkmeans-clase.ipynb) | [Practica 7](./Practicas/PDFs/practica7-ldd-1c2024-clustering.pdf) | [Resuelto Guia 7](./Practicas/practica7.ipynb) |
+| _Clase 13: Operaciones en DataFrames_ | [Notebook 13](./Notebooks/clase13-ldd-operaciones.ipynb) | Ademas de la guia 6, hubo un [desafio sorpresa](./Notebooks/clase13-ldd-desafioSorpresa.ipynb) | El resuelto del desafio esta en el mismo notebook | 
+| _Clase 14: Preprocesamiento_ | [Notebook 14](./Notebooks/clase14-ldd-preprocesamiento.ipynb) | [Practica 7](./Practicas/PDFs/practica7-ldd-1c2024-clustering.pdf) | [Resuelto Guia 7](./Practicas/practica7.ipynb) |
+| [_Clase 15: Clustering_](./Clases/clase15-clustering-slides.pdf) | [Notebook 15](./Notebooks/clase15-ldd-clusteringkmeans-clase.ipynb) | = | = |
 | [_Clase 16: DBSCAN_](./Clases/clase16-dbscan-slides.pdf) | [Notebook 16](./Notebooks/clase16-ldd-dbscan-clase.ipynb) | Practica 7 Ejercicio 5 | = |
 | [_Clsae 17: KNN_](./Clases/clase17-clasificacion-slides.pdf) | [Notebook 17](./Notebooks/Clase17-KNN-clase.ipynb) | = | = |
 | [_Clase 18: PCA](./Clases/clase18-PCA-slides.pdf) | [Notebook 18](./Notebooks/clase18-pca-pasoapaso-clase.ipynb) | [Practica 8](./Practicas/PDFs/practica8-ldd-1c2024-componentes_principales.pdf) | [Resuelto Guia 8](./Practicas/practica8.ipynb) | 
 | _Clase 19: Aplicaciones de PCA_ | [Notebook 19](./Notebooks/clase19-pca-irl.ipynb) | = | = | 
-| [_Clase 20: Descenso del Gradiente_](./Clases/clase20-gradiente-slides.pdf) | [Notebook 20](./Notebooks/clase20-descensoporgradiente.ipynb) usada con [tf_regressor.py](./Notebooks/tf_regressor.py) | = | = |
+| [_Clase 20: Descenso del Gradiente_](./Clases/clase20-gradiente-slides.pdf) | [Notebook 20](./Notebooks/clase20-descensoporgradiente.ipynb) usada con [tf_regressor.py](./Notebooks/tf_regressor.py) | [Practica 9](./Practicas/PDFs/practica9-ldd-1c2024.pdf) | [Resuelto Guia 9]() |
+| [_Clase 21: Redes Neuronales_](./Clases/clase21-RedesNeuronales.pdf) | [Notebook 21](./Notebooks/clase21-redesneuronales.ipynb) | = | = |
 
 </details>
 
